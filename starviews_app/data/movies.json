@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "The Silent Dawn",
+    "year": 2023,
+    "genre": "Drama / Mystery",
+    "rating": 7.8,
+    "poster": "https://picsum.photos/seed/silent/600/900",
+    "synopsis": "An investigative journalist uncovers a small town's quiet secrets."
+  },
+  {
+    "id": 2,
+    "title": "Neon Rush",
+    "year": 2024,
+    "genre": "Action / Sci-fi",
+    "rating": 8.2,
+    "poster": "https://picsum.photos/seed/neon/600/900",
+    "synopsis": "A courier in a futuristic city gets entangled in corporate espionage."
+  },
+  {
+    "id": 3,
+    "title": "Blue Horizon",
+    "year": 2021,
+    "genre": "Romance / Drama",
+    "rating": 7.1,
+    "poster": "https://picsum.photos/seed/blue/600/900",
+    "synopsis": "Two strangers find connection on a summer coastal town."
+  },
+  {
+    "id": 4,
+    "title": "Echoes of Time",
+    "year": 2025,
+    "genre": "Adventure / Fantasy",
+    "rating": 8.5,
+    "poster": "https://picsum.photos/seed/echo/600/900",
+    "synopsis": "A young explorer discovers a map that reshapes history."
+  }
+]

@@ -1,0 +1,4 @@
+
+body { background: #f8fafc; }
+.poster { height: 320px; object-fit: cover; }
+.card-title { font-size: 1.05rem; }
